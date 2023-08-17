@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oiee<3 🤍
 
-<!--
-**Luakekes/Luakekes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Luakekes** é o meu apelido, meu nome é Anna e seja bem vindo(a) ao meu perfil :)
 
-Here are some ideas to get you started:
+-estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo em programação
+
+### Para poder entrar em contato comigo : +55 41 991852738 
+@Lua__kekes
+
+![](https://media.tenor.com/lIqhIWEdWcMAAAAC/princess-unattainabelle-ksi%C4%99%C5%BCniczka-pustelniczka.gif)
+
+
